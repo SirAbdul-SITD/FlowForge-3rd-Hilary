@@ -1,0 +1,41 @@
+═══════════════════════════════════════════
+FLOWFORGE — PLAY STORE LISTING
+com.hilaryino.flowforge
+═══════════════════════════════════════════
+
+APP TITLE (max 50 chars):
+FlowForge: One Line Puzzle
+
+SHORT DESCRIPTION (max 80 chars):
+Draw one unbroken line through every cell, start to end. 150 path puzzles!
+
+FULL DESCRIPTION:
+🔥 ONE LINE. EVERY CELL. 🔥
+
+Start at the teal dot, end at the pink dot — and draw a single unbroken line that passes through every cell on the grid exactly once. No cell left empty, no line crossing itself. Simple to grasp, deeply satisfying to forge.
+
+🧩 HOW TO PLAY
+• Drag from the teal start dot
+• Move through adjacent cells to extend your line
+• Backtrack by dragging onto the previous cell
+• Cover EVERY cell and finish on the pink end dot
+• Solve without restarting for a perfect 3 stars
+
+✨ FEATURES
+• 150 levels: 4×4, 5×5 and 6×6 grids
+• Every puzzle is guaranteed solvable — carved from a real winding path
+• Glowing molten line that flows as you draw
+• Smooth drag controls with easy backtracking
+• Warm forge visuals and an immersive ambient soundtrack
+• Haptic feedback
+• 100% offline, no ads, no purchases, zero data collection
+
+🧠 THE HAMILTONIAN PATH PUZZLE
+A pure space-filling challenge: one continuous stroke, every square, no repeats. The bigger grids will have you planning several moves ahead to avoid stranding a corner.
+
+Forge the path. Fill the grid. 🔥
+
+CATEGORY: Games > Puzzle
+CONTENT RATING: Everyone
+PRICE: Free
+TAGS: one line, path, hamiltonian, snake, puzzle, logic, fill, brain, draw, grid
